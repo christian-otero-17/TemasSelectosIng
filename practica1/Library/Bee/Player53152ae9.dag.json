@@ -833,8 +833,7 @@
         825,
         826,
         827,
-        828,
-        829
+        828
       ],
       "AllowUnexpectedOutput": true,
       "DebugActionIndex": 0
@@ -918,7 +917,7 @@
     },
     {
       "Annotation": "UnityLinker Library/Bee/artifacts/Android/ManagedStripped",
-      "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.4f1\\Editor\\Data\\il2cpp/build/deploy/UnityLinker.exe\" --search-directory=\"C:/Users/chris/Desktop/PracticasTemas/practica1/Temp/StagingArea/Data/Managed\" --out=\"Library/Bee/artifacts/Android/ManagedStripped\" --include-link-xml=\"C:/Users/chris/Desktop/PracticasTemas/practica1/Temp/StagingArea/Data/Managed\\TypesInScenes.xml\" --include-link-xml=\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/AndroidNativeLink.xml\" --include-directory=\"C:/Users/chris/Desktop/PracticasTemas/practica1/Temp/StagingArea/Data/Managed\" --dotnetprofile=unityaot-linux --dotnetruntime=Il2Cpp --platform=Android --use-editor-options --enable-engine-module-stripping --engine-modules-asset-file=\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/modules.asset\" --editor-data-file=\"C:/Users/chris/Desktop/PracticasTemas/practica1/Temp/StagingArea/Data/Managed/EditorToUnityLinkerData.json\" --include-unity-root-assembly=\"C:/Users/chris/Desktop/PracticasTemas/practica1/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll\" --include-unity-root-assembly=\"C:/Users/chris/Desktop/PracticasTemas/practica1/Temp/StagingArea/Data/Managed/Google.XR.Cardboard.dll\" --include-unity-root-assembly=\"C:/Users/chris/Desktop/PracticasTemas/practica1/Temp/StagingArea/Data/Managed/UnityEngine.SpatialTracking.dll\" --include-unity-root-assembly=\"C:/Users/chris/Desktop/PracticasTemas/practica1/Temp/StagingArea/Data/Managed/Unity.XR.Management.dll\" --print-command-line",
+      "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.4f1\\Editor\\Data\\il2cpp/build/deploy/UnityLinker.exe\" --search-directory=\"C:/Users/chris/Desktop/PracticasTemas/practica1/Temp/StagingArea/Data/Managed\" --out=\"Library/Bee/artifacts/Android/ManagedStripped\" --include-link-xml=\"C:/Users/chris/Desktop/PracticasTemas/practica1/Temp/StagingArea/Data/Managed\\TypesInScenes.xml\" --include-link-xml=\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/AndroidNativeLink.xml\" --include-directory=\"C:/Users/chris/Desktop/PracticasTemas/practica1/Temp/StagingArea/Data/Managed\" --dotnetprofile=unityaot-linux --dotnetruntime=Il2Cpp --platform=Android --use-editor-options --enable-engine-module-stripping --engine-modules-asset-file=\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/modules.asset\" --editor-data-file=\"C:/Users/chris/Desktop/PracticasTemas/practica1/Temp/StagingArea/Data/Managed/EditorToUnityLinkerData.json\" --include-unity-root-assembly=\"C:/Users/chris/Desktop/PracticasTemas/practica1/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll\" --include-unity-root-assembly=\"C:/Users/chris/Desktop/PracticasTemas/practica1/Temp/StagingArea/Data/Managed/UnityEngine.SpatialTracking.dll\" --include-unity-root-assembly=\"C:/Users/chris/Desktop/PracticasTemas/practica1/Temp/StagingArea/Data/Managed/Unity.XR.Management.dll\" --include-unity-root-assembly=\"C:/Users/chris/Desktop/PracticasTemas/practica1/Temp/StagingArea/Data/Managed/Google.XR.Cardboard.dll\" --print-command-line",
       "Inputs": [
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Temp/StagingArea/Data/Managed/Accessibility.dll",
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll",
@@ -15960,20 +15959,6 @@
       "DebugActionIndex": 747
     },
     {
-      "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/icallsummary.txt",
-      "ActionType": "CopyFiles",
-      "Inputs": [
-        "Library/Bee/artifacts/Android/ManagedStripped/icallsummary.txt"
-      ],
-      "Outputs": [
-        "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/icallsummary.txt"
-      ],
-      "ToBuildDependencies": [
-        8
-      ],
-      "DebugActionIndex": 748
-    },
-    {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Mono.Security.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
@@ -15985,7 +15970,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 749
+      "DebugActionIndex": 748
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/mscorlib.dll",
@@ -15999,7 +15984,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 750
+      "DebugActionIndex": 749
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/System.Configuration.dll",
@@ -16013,7 +15998,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 751
+      "DebugActionIndex": 750
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/System.Core.dll",
@@ -16027,7 +16012,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 752
+      "DebugActionIndex": 751
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/System.dll",
@@ -16041,7 +16026,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 753
+      "DebugActionIndex": 752
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/System.Xml.dll",
@@ -16055,7 +16040,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 754
+      "DebugActionIndex": 753
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.XR.Management.dll",
@@ -16069,7 +16054,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 755
+      "DebugActionIndex": 754
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/Unity.XR.Management.pdb",
@@ -16083,7 +16068,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 756
+      "DebugActionIndex": 755
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AndroidJNIModule.dll",
@@ -16097,7 +16082,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 757
+      "DebugActionIndex": 756
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AndroidJNIModule.pdb",
@@ -16111,7 +16096,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 758
+      "DebugActionIndex": 757
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AudioModule.dll",
@@ -16125,7 +16110,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 759
+      "DebugActionIndex": 758
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.AudioModule.pdb",
@@ -16139,7 +16124,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 760
+      "DebugActionIndex": 759
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.CoreModule.dll",
@@ -16153,7 +16138,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 761
+      "DebugActionIndex": 760
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.CoreModule.pdb",
@@ -16167,7 +16152,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 762
+      "DebugActionIndex": 761
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.dll",
@@ -16181,7 +16166,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 763
+      "DebugActionIndex": 762
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.InputLegacyModule.dll",
@@ -16195,7 +16180,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 764
+      "DebugActionIndex": 763
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.InputLegacyModule.pdb",
@@ -16209,7 +16194,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 765
+      "DebugActionIndex": 764
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.InputModule.dll",
@@ -16223,7 +16208,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 766
+      "DebugActionIndex": 765
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.InputModule.pdb",
@@ -16237,7 +16222,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 767
+      "DebugActionIndex": 766
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.pdb",
@@ -16251,7 +16236,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 768
+      "DebugActionIndex": 767
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.PhysicsModule.dll",
@@ -16265,7 +16250,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 769
+      "DebugActionIndex": 768
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.PhysicsModule.pdb",
@@ -16279,7 +16264,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 770
+      "DebugActionIndex": 769
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.SharedInternalsModule.dll",
@@ -16293,7 +16278,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 771
+      "DebugActionIndex": 770
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.SharedInternalsModule.pdb",
@@ -16307,7 +16292,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 772
+      "DebugActionIndex": 771
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.SpatialTracking.dll",
@@ -16321,7 +16306,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 773
+      "DebugActionIndex": 772
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.SpatialTracking.pdb",
@@ -16335,7 +16320,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 774
+      "DebugActionIndex": 773
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.SubsystemsModule.dll",
@@ -16349,7 +16334,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 775
+      "DebugActionIndex": 774
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.SubsystemsModule.pdb",
@@ -16363,7 +16348,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 776
+      "DebugActionIndex": 775
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.XRModule.dll",
@@ -16377,7 +16362,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 777
+      "DebugActionIndex": 776
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityEngine.XRModule.pdb",
@@ -16391,7 +16376,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 778
+      "DebugActionIndex": 777
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Il2CppBackup/Managed/UnityLinkerToEditorData.json",
@@ -16405,7 +16390,7 @@
       "ToBuildDependencies": [
         8
       ],
-      "DebugActionIndex": 779
+      "DebugActionIndex": 778
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/unity default resources",
@@ -16416,18 +16401,18 @@
       "Outputs": [
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/unity default resources"
       ],
-      "DebugActionIndex": 780
+      "DebugActionIndex": 779
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/build.gradle_uisp.info",
       "ActionType": "WriteTextFile",
-      "WriteTextFilePayload": "{\"AndroidPlayerBuildProgram.Actions.ActionGenerateProjectFiles+Arguments\":{\"ProjectPath\":\"C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle\",\"Architectures\":\"ARMv7, ARM64\",\"BuildSystem\":\"Gradle\",\"GradleProjectCreateInfo\":{\"HostPlatform\":\"Windows\",\"ApplicationType\":\"APK\",\"BuildType\":\"Release\",\"AndroidSDKPath\":\"C:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\2021.3.4f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\SDK\",\"AndroidNDKPath\":\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK\",\"PreferredHeapSizeForJVM\":4096,\"UnityLibraryTemplatePath\":\"Assets/Plugins/Android\\\\mainTemplate.gradle\",\"LauncherTemplatePath\":\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\\\GradleTemplates\\\\launcherTemplate.gradle\",\"BaseProjectTemplatePath\":\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\\\GradleTemplates\\\\baseProjectTemplate.gradle\",\"GradlePropertiesTemplatePath\":\"Assets/Plugins/Android\\\\gradleTemplate.properties\",\"GradleLibraryTemplatePath\":\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\\\GradleTemplates\\\\libTemplate.gradle\",\"ProguardUserPath\":\"\",\"SettingsTemplatePath\":\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\\\GradleTemplates\\\\settingsTemplate.gradle\",\"BuildTools\":\"30.0.2\",\"TargetSDKVersion\":31,\"MinSDKVersion\":30,\"PackageName\":\"com.unamtemas.practica1\",\"Architectures\":\"ARMv7, ARM64\",\"BuildApkPerCpuArchitecture\":false,\"VersionCode\":1,\"VersionName\":\"0.1\",\"Minify\":0,\"NoCompressOptions\":{\"RelativeFilePaths\":[],\"FileExtensions\":[\".json\"]},\"UseCustomKeystore\":false,\"KeystorePath\":\"\",\"KeystoreName\":\"\",\"KeystorePassword\":\"\",\"KeystoreAliasName\":\"\",\"KeystoreAliasPassword\":\"\",\"ScriptingImplementation\":\"IL2CPP\",\"AndroidLibraries\":[],\"AARFiles\":[\"C:/Users/chris/Desktop/PracticasTemas/cardboard-xr-plugin-master/Runtime/Android/GfxPluginCardboard.aar\"],\"BuiltinJavaSourcePaths\":[\"com/unity3d/player/UnityPlayerActivity.java\"],\"JavaSourcePaths\":[],\"KotlinSourcePaths\":[],\"PlayerPackage\":\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer\",\"PlayerPackageTools\":\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\",\"SymlinkSources\":false,\"InstallIntoBuildsFolder\":false,\"UnityPath\":\"\",\"UnityProjectPath\":\"C:/Users/chris/Desktop/PracticasTemas/practica1\",\"Dependencies\":[]}},\"Bee.TundraBackend.CSharpActionInvocationInformation\":{\"typeFullName\":\"AndroidPlayerBuildProgram.Actions.ActionGenerateProjectFiles\",\"methodName\":\"Run\",\"assemblyLocation\":\"C:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\2021.3.4f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\AndroidPlayerBuildProgram.exe\",\"targets\":[\"C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/build.gradle\",\"C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build.gradle\",\"C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build.gradle\",\"C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/gradle.properties\",\"C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/local.properties\",\"C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/settings.gradle\"],\"inputs\":[\"Assets/Plugins/Android/mainTemplate.gradle\",\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/launcherTemplate.gradle\",\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/baseProjectTemplate.gradle\",\"Assets/Plugins/Android/gradleTemplate.properties\",\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/libTemplate.gradle\",\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/settingsTemplate.gradle\"],\"targetDirectories\":[]}}",
+      "WriteTextFilePayload": "{\"AndroidPlayerBuildProgram.Actions.ActionGenerateProjectFiles+Arguments\":{\"ProjectPath\":\"C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle\",\"Architectures\":\"ARMv7, ARM64\",\"BuildSystem\":\"Gradle\",\"GradleProjectCreateInfo\":{\"HostPlatform\":\"Windows\",\"ApplicationType\":\"APK\",\"BuildType\":\"Release\",\"AndroidSDKPath\":\"C:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\2021.3.4f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\SDK\",\"AndroidNDKPath\":\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK\",\"PreferredHeapSizeForJVM\":4096,\"UnityLibraryTemplatePath\":\"Assets/Plugins/Android\\\\mainTemplate.gradle\",\"LauncherTemplatePath\":\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\\\GradleTemplates\\\\launcherTemplate.gradle\",\"BaseProjectTemplatePath\":\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\\\GradleTemplates\\\\baseProjectTemplate.gradle\",\"GradlePropertiesTemplatePath\":\"Assets/Plugins/Android\\\\gradleTemplate.properties\",\"GradleLibraryTemplatePath\":\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\\\GradleTemplates\\\\libTemplate.gradle\",\"ProguardUserPath\":\"\",\"SettingsTemplatePath\":\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\\\GradleTemplates\\\\settingsTemplate.gradle\",\"BuildTools\":\"30.0.2\",\"TargetSDKVersion\":31,\"MinSDKVersion\":30,\"PackageName\":\"com.unamtemas.practica2\",\"Architectures\":\"ARMv7, ARM64\",\"BuildApkPerCpuArchitecture\":false,\"VersionCode\":1,\"VersionName\":\"0.1\",\"Minify\":0,\"NoCompressOptions\":{\"RelativeFilePaths\":[],\"FileExtensions\":[\".json\"]},\"UseCustomKeystore\":false,\"KeystorePath\":\"\",\"KeystoreName\":\"\",\"KeystorePassword\":\"\",\"KeystoreAliasName\":\"\",\"KeystoreAliasPassword\":\"\",\"ScriptingImplementation\":\"IL2CPP\",\"AndroidLibraries\":[],\"AARFiles\":[\"C:/Users/chris/Desktop/PracticasTemas/cardboard-xr-plugin-master/Runtime/Android/GfxPluginCardboard.aar\"],\"BuiltinJavaSourcePaths\":[\"com/unity3d/player/UnityPlayerActivity.java\"],\"JavaSourcePaths\":[],\"KotlinSourcePaths\":[],\"PlayerPackage\":\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer\",\"PlayerPackageTools\":\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\",\"SymlinkSources\":false,\"InstallIntoBuildsFolder\":false,\"UnityPath\":\"\",\"UnityProjectPath\":\"C:/Users/chris/Desktop/PracticasTemas/practica1\",\"Dependencies\":[]}},\"Bee.TundraBackend.CSharpActionInvocationInformation\":{\"typeFullName\":\"AndroidPlayerBuildProgram.Actions.ActionGenerateProjectFiles\",\"methodName\":\"Run\",\"assemblyLocation\":\"C:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\2021.3.4f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\AndroidPlayerBuildProgram.exe\",\"targets\":[\"C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/build.gradle\",\"C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build.gradle\",\"C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build.gradle\",\"C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/gradle.properties\",\"C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/local.properties\",\"C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/settings.gradle\"],\"inputs\":[\"Assets/Plugins/Android/mainTemplate.gradle\",\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/launcherTemplate.gradle\",\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/baseProjectTemplate.gradle\",\"Assets/Plugins/Android/gradleTemplate.properties\",\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/libTemplate.gradle\",\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/GradleTemplates/settingsTemplate.gradle\"],\"targetDirectories\":[]}}",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/csharpactions/build.gradle_uisp.info"
       ],
       "AllowUnwrittenOutputFiles": true,
-      "DebugActionIndex": 781
+      "DebugActionIndex": 780
     },
     {
       "Annotation": "ActionGenerateProjectFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/build.gradle (+5 others)",
@@ -16457,11 +16442,11 @@
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/settings.gradle"
       ],
       "ToBuildDependencies": [
-        781
+        780
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 782
+      "DebugActionIndex": 781
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/proguard-unity.txt",
@@ -16472,7 +16457,7 @@
       "Outputs": [
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/proguard-unity.txt"
       ],
-      "DebugActionIndex": 783
+      "DebugActionIndex": 782
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/java/com/unity3d/player/UnityPlayerActivity.java",
@@ -16483,7 +16468,7 @@
       "Outputs": [
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/java/com/unity3d/player/UnityPlayerActivity.java"
       ],
-      "DebugActionIndex": 784
+      "DebugActionIndex": 783
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/unity-classes.jar",
@@ -16494,7 +16479,7 @@
       "Outputs": [
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/unity-classes.jar"
       ],
-      "DebugActionIndex": 785
+      "DebugActionIndex": 784
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/values/ids.xml",
@@ -16505,7 +16490,7 @@
       "Outputs": [
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/values/ids.xml"
       ],
-      "DebugActionIndex": 786
+      "DebugActionIndex": 785
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/values/styles.xml",
@@ -16516,7 +16501,7 @@
       "Outputs": [
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/values/styles.xml"
       ],
-      "DebugActionIndex": 787
+      "DebugActionIndex": 786
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/values-v21/styles.xml",
@@ -16527,7 +16512,7 @@
       "Outputs": [
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/values-v21/styles.xml"
       ],
-      "DebugActionIndex": 788
+      "DebugActionIndex": 787
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/values-v28/styles.xml",
@@ -16538,7 +16523,7 @@
       "Outputs": [
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/values-v28/styles.xml"
       ],
-      "DebugActionIndex": 789
+      "DebugActionIndex": 788
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/styles.xml",
@@ -16549,7 +16534,7 @@
       "Outputs": [
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/styles.xml"
       ],
-      "DebugActionIndex": 790
+      "DebugActionIndex": 789
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v21/styles.xml",
@@ -16560,7 +16545,7 @@
       "Outputs": [
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v21/styles.xml"
       ],
-      "DebugActionIndex": 791
+      "DebugActionIndex": 790
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v28/styles.xml",
@@ -16571,18 +16556,18 @@
       "Outputs": [
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v28/styles.xml"
       ],
-      "DebugActionIndex": 792
+      "DebugActionIndex": 791
     },
     {
       "Annotation": "WriteText C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/values/strings.xml",
       "ActionType": "WriteTextFile",
-      "WriteTextFilePayload": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<resources>\r\n  <string name=\"app_name\">practica1</string>\r\n  <string name=\"game_view_content_description\">Game view</string>\r\n</resources>",
+      "WriteTextFilePayload": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<resources>\r\n  <string name=\"app_name\">practica2</string>\r\n  <string name=\"game_view_content_description\">Game view</string>\r\n</resources>",
       "Inputs": [],
       "Outputs": [
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/values/strings.xml"
       ],
       "AllowUnwrittenOutputFiles": true,
-      "DebugActionIndex": 793
+      "DebugActionIndex": 792
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/freeformwindow.xml",
@@ -16593,7 +16578,7 @@
       "Outputs": [
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values/freeformwindow.xml"
       ],
-      "DebugActionIndex": 794
+      "DebugActionIndex": 793
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v30/freeformwindow.xml",
@@ -16604,7 +16589,7 @@
       "Outputs": [
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/res/values-v30/freeformwindow.xml"
       ],
-      "DebugActionIndex": 795
+      "DebugActionIndex": 794
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-anydpi-v26/app_icon.xml",
@@ -16615,7 +16600,7 @@
       "Outputs": [
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-anydpi-v26/app_icon.xml"
       ],
-      "DebugActionIndex": 796
+      "DebugActionIndex": 795
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-anydpi-v26/app_icon_round.xml",
@@ -16626,7 +16611,7 @@
       "Outputs": [
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-anydpi-v26/app_icon_round.xml"
       ],
-      "DebugActionIndex": 797
+      "DebugActionIndex": 796
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/app_icon.png",
@@ -16637,7 +16622,7 @@
       "Outputs": [
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/app_icon.png"
       ],
-      "DebugActionIndex": 798
+      "DebugActionIndex": 797
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_background.png",
@@ -16648,7 +16633,7 @@
       "Outputs": [
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_background.png"
       ],
-      "DebugActionIndex": 799
+      "DebugActionIndex": 798
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_foreground.png",
@@ -16659,7 +16644,7 @@
       "Outputs": [
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
       ],
-      "DebugActionIndex": 800
+      "DebugActionIndex": 799
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libmain.so",
@@ -16670,7 +16655,7 @@
       "Outputs": [
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libmain.so"
       ],
-      "DebugActionIndex": 801
+      "DebugActionIndex": 800
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/arm64-v8a/libmain.so",
@@ -16681,18 +16666,18 @@
       "Outputs": [
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/arm64-v8a/libmain.so"
       ],
-      "DebugActionIndex": 802
+      "DebugActionIndex": 801
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/LauncherManifestDiag.txt_zvqu.info",
       "ActionType": "WriteTextFile",
-      "WriteTextFilePayload": "{\"AndroidPlayerBuildProgram.Actions.GenerateManifests+Arguments\":{\"Configuration\":{\"PackageName\":\"com.unamtemas.practica1\",\"TargetSDKVersion\":31,\"LauncherManifestTemplatePath\":\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer\\\\Apk\\\\LauncherManifest.xml\",\"LibraryManifestTemplatePath\":\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer\\\\Apk\\\\UnityManifest.xml\",\"LauncherManifestPath\":\"launcher\\\\src\\\\main\\\\AndroidManifest.xml\",\"LibraryManifestPath\":\"unityLibrary\\\\src\\\\main\\\\AndroidManifest.xml\",\"TVCompatibility\":false,\"BannerEnabled\":true,\"IsGame\":true,\"PreferredInstallLocation\":\"PreferExternal\",\"TextureSupport\":\"Generic\",\"GamepadSupportLevel\":\"SupportsDPad\",\"TargetDevices\":\"AllDevices\",\"SupportedAspectRatioMode\":1,\"MaxAspectRatio\":2.1,\"ForceInternetPermission\":true,\"UseLowAccuracyLocation\":false,\"ForceSDCardPermission\":false,\"PreserveFramebufferAlpha\":false,\"DefaultInterfaceOrientation\":\"LandscapeRight\",\"AllowedAutorotateToPortrait\":true,\"AllowedAutorotateToPortraitUpsideDown\":true,\"AllowedAutorotateToLandscapeLeft\":true,\"AllowedAutorotateToLandscapeRight\":true,\"ARCoreEnabled\":false,\"SplashScreenScale\":\"Center\",\"VREnabled\":false,\"RenderOutsideSafeArea\":true,\"GraphicsDevices\":[\"OpenGLES3\"],\"OpenGLRequireES31\":false,\"OpenGLRequireES31AEP\":false,\"OpenGLRequireES32\":false,\"StartInFullscreen\":true,\"ChromeOSInputEmulation\":true,\"DefaultWindowWidth\":1920,\"DefaultWindowHeight\":1080,\"MinimumWindowWidth\":400,\"MinimumWindowHeight\":300,\"ResizableWindow\":false,\"FullScreenMode\":\"FullScreenWindow\"},\"Services\":{\"EnableUnityConnect\":false,\"EnablePerformanceReporting\":false,\"EnableAnalytics\":false,\"EnableCrashReporting\":false},\"ProjectPath\":\"C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle\",\"FeatureChecklist\":[\"Library/Bee/artifacts/Android/Features/Assembly-CSharp-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/Google.XR.Cardboard-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/Mono.Security-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/mscorlib-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/System.Configuration-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/System.Core-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/System-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/System.Xml-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/Unity.XR.Management-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.AndroidJNIModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.AudioModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.CoreModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.InputLegacyModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.InputModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.PhysicsModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.SharedInternalsModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.SpatialTracking-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.SubsystemsModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.XRModule-FeaturesChecked.txt\"],\"Development\":false,\"UsingObb\":false,\"GradleResourcesInformation\":{\"TargetSDKVersion\":31,\"RoundIconsAvailable\":false,\"RoundIconsSupported\":true,\"AdaptiveIconsSupported\":true,\"AdaptiveIconsAvailable\":false},\"LauncherManifestDiagnosticsPath\":\"Library/Bee/artifacts/Android/Manifest/LauncherManifestDiag.txt\",\"LibraryManifestDiagnosticsPath\":\"Library/Bee/artifacts/Android/Manifest/LibraryManifestDiag.txt\"},\"Bee.TundraBackend.CSharpActionInvocationInformation\":{\"typeFullName\":\"AndroidPlayerBuildProgram.Actions.GenerateManifests\",\"methodName\":\"Run\",\"assemblyLocation\":\"C:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\2021.3.4f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\AndroidPlayerBuildProgram.exe\",\"targets\":[\"Library/Bee/artifacts/Android/Manifest/LauncherManifestDiag.txt\",\"Library/Bee/artifacts/Android/Manifest/LibraryManifestDiag.txt\",\"C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml\",\"C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml\"],\"inputs\":[\"Library/Bee/artifacts/Android/Features/Assembly-CSharp-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/Google.XR.Cardboard-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/Mono.Security-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/mscorlib-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/System.Configuration-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/System.Core-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/System-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/System.Xml-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/Unity.XR.Management-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.AndroidJNIModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.AudioModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.CoreModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.InputLegacyModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.InputModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.PhysicsModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.SharedInternalsModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.SpatialTracking-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.SubsystemsModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.XRModule-FeaturesChecked.txt\",\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/Apk/LauncherManifest.xml\",\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/Apk/UnityManifest.xml\"],\"targetDirectories\":[]}}",
+      "WriteTextFilePayload": "{\"AndroidPlayerBuildProgram.Actions.GenerateManifests+Arguments\":{\"Configuration\":{\"PackageName\":\"com.unamtemas.practica2\",\"TargetSDKVersion\":31,\"LauncherManifestTemplatePath\":\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer\\\\Apk\\\\LauncherManifest.xml\",\"LibraryManifestTemplatePath\":\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer\\\\Apk\\\\UnityManifest.xml\",\"LauncherManifestPath\":\"launcher\\\\src\\\\main\\\\AndroidManifest.xml\",\"LibraryManifestPath\":\"unityLibrary\\\\src\\\\main\\\\AndroidManifest.xml\",\"TVCompatibility\":false,\"BannerEnabled\":true,\"IsGame\":true,\"PreferredInstallLocation\":\"PreferExternal\",\"TextureSupport\":\"Generic\",\"GamepadSupportLevel\":\"SupportsDPad\",\"TargetDevices\":\"AllDevices\",\"SupportedAspectRatioMode\":1,\"MaxAspectRatio\":2.1,\"ForceInternetPermission\":true,\"UseLowAccuracyLocation\":false,\"ForceSDCardPermission\":false,\"PreserveFramebufferAlpha\":false,\"DefaultInterfaceOrientation\":\"LandscapeRight\",\"AllowedAutorotateToPortrait\":true,\"AllowedAutorotateToPortraitUpsideDown\":true,\"AllowedAutorotateToLandscapeLeft\":true,\"AllowedAutorotateToLandscapeRight\":true,\"ARCoreEnabled\":false,\"SplashScreenScale\":\"Center\",\"VREnabled\":false,\"RenderOutsideSafeArea\":true,\"GraphicsDevices\":[\"OpenGLES3\"],\"OpenGLRequireES31\":false,\"OpenGLRequireES31AEP\":false,\"OpenGLRequireES32\":false,\"StartInFullscreen\":true,\"ChromeOSInputEmulation\":true,\"DefaultWindowWidth\":1920,\"DefaultWindowHeight\":1080,\"MinimumWindowWidth\":400,\"MinimumWindowHeight\":300,\"ResizableWindow\":false,\"FullScreenMode\":\"FullScreenWindow\"},\"Services\":{\"EnableUnityConnect\":false,\"EnablePerformanceReporting\":false,\"EnableAnalytics\":false,\"EnableCrashReporting\":false},\"ProjectPath\":\"C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle\",\"FeatureChecklist\":[\"Library/Bee/artifacts/Android/Features/Assembly-CSharp-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/Google.XR.Cardboard-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/Mono.Security-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/mscorlib-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/System.Configuration-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/System.Core-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/System-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/System.Xml-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/Unity.XR.Management-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.AndroidJNIModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.AudioModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.CoreModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.InputLegacyModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.InputModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.PhysicsModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.SharedInternalsModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.SpatialTracking-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.SubsystemsModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.XRModule-FeaturesChecked.txt\"],\"Development\":false,\"UsingObb\":false,\"GradleResourcesInformation\":{\"TargetSDKVersion\":31,\"RoundIconsAvailable\":false,\"RoundIconsSupported\":true,\"AdaptiveIconsSupported\":true,\"AdaptiveIconsAvailable\":false},\"LauncherManifestDiagnosticsPath\":\"Library/Bee/artifacts/Android/Manifest/LauncherManifestDiag.txt\",\"LibraryManifestDiagnosticsPath\":\"Library/Bee/artifacts/Android/Manifest/LibraryManifestDiag.txt\"},\"Bee.TundraBackend.CSharpActionInvocationInformation\":{\"typeFullName\":\"AndroidPlayerBuildProgram.Actions.GenerateManifests\",\"methodName\":\"Run\",\"assemblyLocation\":\"C:\\\\Program Files\\\\Unity\\\\Hub\\\\Editor\\\\2021.3.4f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\AndroidPlayerBuildProgram.exe\",\"targets\":[\"Library/Bee/artifacts/Android/Manifest/LauncherManifestDiag.txt\",\"Library/Bee/artifacts/Android/Manifest/LibraryManifestDiag.txt\",\"C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/AndroidManifest.xml\",\"C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml\"],\"inputs\":[\"Library/Bee/artifacts/Android/Features/Assembly-CSharp-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/Google.XR.Cardboard-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/Mono.Security-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/mscorlib-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/System.Configuration-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/System.Core-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/System-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/System.Xml-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/Unity.XR.Management-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.AndroidJNIModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.AudioModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.CoreModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.InputLegacyModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.InputModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.PhysicsModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.SharedInternalsModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.SpatialTracking-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.SubsystemsModule-FeaturesChecked.txt\",\"Library/Bee/artifacts/Android/Features/UnityEngine.XRModule-FeaturesChecked.txt\",\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/Apk/LauncherManifest.xml\",\"C:/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/PlaybackEngines/AndroidPlayer/Apk/UnityManifest.xml\"],\"targetDirectories\":[]}}",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/csharpactions/LauncherManifestDiag.txt_zvqu.info"
       ],
       "AllowUnwrittenOutputFiles": true,
-      "DebugActionIndex": 803
+      "DebugActionIndex": 802
     },
     {
       "Annotation": "Generate Manifests Library/Bee/artifacts/Android/Manifest/LauncherManifestDiag.txt (+3 others)",
@@ -16756,11 +16741,11 @@
         45,
         47,
         49,
-        803
+        802
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 804
+      "DebugActionIndex": 803
     },
     {
       "Annotation": "ClassRegistrationGenerator C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/artifacts/Android/il2cppOutput/UnityClassRegistration.cpp",
@@ -16778,7 +16763,7 @@
         8
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 805
+      "DebugActionIndex": 804
     },
     {
       "Annotation": "Compile UnityClassRegistration Library/Bee/artifacts/Android/libunity/armeabi-v7a/UnityClassRegistration.o",
@@ -16792,10 +16777,10 @@
         "Library/Bee/artifacts/Android/libunity/armeabi-v7a/UnityClassRegistration.o"
       ],
       "ToBuildDependencies": [
-        805
+        804
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 806
+      "DebugActionIndex": 805
     },
     {
       "Annotation": "ICallRegistrationGenerator C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/artifacts/Android/il2cppOutput/UnityICallRegistration.cpp",
@@ -16819,7 +16804,7 @@
         8
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 807
+      "DebugActionIndex": 806
     },
     {
       "Annotation": "Compile UnityICallRegistration Library/Bee/artifacts/Android/libunity/armeabi-v7a/UnityICallRegistration.o",
@@ -16833,10 +16818,10 @@
         "Library/Bee/artifacts/Android/libunity/armeabi-v7a/UnityICallRegistration.o"
       ],
       "ToBuildDependencies": [
-        807
+        806
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 808
+      "DebugActionIndex": 807
     },
     {
       "Annotation": "Link libunity Library/Bee/artifacts/Android/libunity/armeabi-v7a/unstripped/libunity.so",
@@ -16853,11 +16838,11 @@
         "Library/Bee/artifacts/Android/libunity/armeabi-v7a/unstripped/libunity.so"
       ],
       "ToBuildDependencies": [
-        806,
-        808
+        805,
+        807
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 809
+      "DebugActionIndex": 808
     },
     {
       "Annotation": "Generate Library/Bee/artifacts/Android/libunity/armeabi-v7a/libunity.dbg.so from Library/Bee/artifacts/Android/libunity/armeabi-v7a/unstripped/libunity.so Library/Bee/artifacts/Android/libunity/armeabi-v7a/libunity.dbg.so",
@@ -16870,10 +16855,10 @@
         "Library/Bee/artifacts/Android/libunity/armeabi-v7a/libunity.dbg.so"
       ],
       "ToBuildDependencies": [
-        809
+        808
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 810
+      "DebugActionIndex": 809
     },
     {
       "Annotation": "Generate Library/Bee/artifacts/Android/libunity/armeabi-v7a/libunity.sym.so from Library/Bee/artifacts/Android/libunity/armeabi-v7a/libunity.dbg.so Library/Bee/artifacts/Android/libunity/armeabi-v7a/libunity.sym.so",
@@ -16886,10 +16871,10 @@
         "Library/Bee/artifacts/Android/libunity/armeabi-v7a/libunity.sym.so"
       ],
       "ToBuildDependencies": [
-        810
+        809
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 811
+      "DebugActionIndex": 810
     },
     {
       "Annotation": "Stripping Library/Bee/artifacts/Android/libunity/armeabi-v7a/unstripped/libunity.so -> Library/Bee/artifacts/Android/libunity/armeabi-v7a/stripped/libunity.so Library/Bee/artifacts/Android/libunity/armeabi-v7a/stripped/libunity.so",
@@ -16902,10 +16887,10 @@
         "Library/Bee/artifacts/Android/libunity/armeabi-v7a/stripped/libunity.so"
       ],
       "ToBuildDependencies": [
-        809
+        808
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 812
+      "DebugActionIndex": 811
     },
     {
       "Annotation": "Adding note Library/Bee/artifacts/Android/libunity/armeabi-v7a/stripped/libunity.so -> C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libunity.so C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libunity.so",
@@ -16920,11 +16905,11 @@
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/armeabi-v7a/libunity.so"
       ],
       "ToBuildDependencies": [
-        811,
-        812
+        810,
+        811
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 813
+      "DebugActionIndex": 812
     },
     {
       "Annotation": "Compile UnityClassRegistration Library/Bee/artifacts/Android/libunity/arm64-v8a/UnityClassRegistration.o",
@@ -16938,10 +16923,10 @@
         "Library/Bee/artifacts/Android/libunity/arm64-v8a/UnityClassRegistration.o"
       ],
       "ToBuildDependencies": [
-        805
+        804
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 814
+      "DebugActionIndex": 813
     },
     {
       "Annotation": "Compile UnityICallRegistration Library/Bee/artifacts/Android/libunity/arm64-v8a/UnityICallRegistration.o",
@@ -16955,10 +16940,10 @@
         "Library/Bee/artifacts/Android/libunity/arm64-v8a/UnityICallRegistration.o"
       ],
       "ToBuildDependencies": [
-        807
+        806
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 815
+      "DebugActionIndex": 814
     },
     {
       "Annotation": "Link libunity Library/Bee/artifacts/Android/libunity/arm64-v8a/unstripped/libunity.so",
@@ -16975,11 +16960,11 @@
         "Library/Bee/artifacts/Android/libunity/arm64-v8a/unstripped/libunity.so"
       ],
       "ToBuildDependencies": [
-        814,
-        815
+        813,
+        814
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 816
+      "DebugActionIndex": 815
     },
     {
       "Annotation": "Generate Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.dbg.so from Library/Bee/artifacts/Android/libunity/arm64-v8a/unstripped/libunity.so Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.dbg.so",
@@ -16992,10 +16977,10 @@
         "Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.dbg.so"
       ],
       "ToBuildDependencies": [
-        816
+        815
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 817
+      "DebugActionIndex": 816
     },
     {
       "Annotation": "Generate Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.sym.so from Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.dbg.so Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.sym.so",
@@ -17008,10 +16993,10 @@
         "Library/Bee/artifacts/Android/libunity/arm64-v8a/libunity.sym.so"
       ],
       "ToBuildDependencies": [
-        817
+        816
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 818
+      "DebugActionIndex": 817
     },
     {
       "Annotation": "Stripping Library/Bee/artifacts/Android/libunity/arm64-v8a/unstripped/libunity.so -> Library/Bee/artifacts/Android/libunity/arm64-v8a/stripped/libunity.so Library/Bee/artifacts/Android/libunity/arm64-v8a/stripped/libunity.so",
@@ -17024,10 +17009,10 @@
         "Library/Bee/artifacts/Android/libunity/arm64-v8a/stripped/libunity.so"
       ],
       "ToBuildDependencies": [
-        816
+        815
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 819
+      "DebugActionIndex": 818
     },
     {
       "Annotation": "Adding note Library/Bee/artifacts/Android/libunity/arm64-v8a/stripped/libunity.so -> C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/arm64-v8a/libunity.so C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/arm64-v8a/libunity.so",
@@ -17042,11 +17027,11 @@
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/jniLibs/arm64-v8a/libunity.so"
       ],
       "ToBuildDependencies": [
-        818,
-        819
+        817,
+        818
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 820
+      "DebugActionIndex": 819
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/armeabi-v7a/libmain.so",
@@ -17057,7 +17042,7 @@
       "Outputs": [
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/armeabi-v7a/libmain.so"
       ],
-      "DebugActionIndex": 821
+      "DebugActionIndex": 820
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/armeabi-v7a/libil2cpp.so",
@@ -17071,7 +17056,7 @@
       "ToBuildDependencies": [
         345
       ],
-      "DebugActionIndex": 822
+      "DebugActionIndex": 821
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/armeabi-v7a/libunity.so",
@@ -17083,9 +17068,9 @@
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/armeabi-v7a/libunity.so"
       ],
       "ToBuildDependencies": [
-        811
+        810
       ],
-      "DebugActionIndex": 823
+      "DebugActionIndex": 822
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/arm64-v8a/libmain.so",
@@ -17096,7 +17081,7 @@
       "Outputs": [
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/arm64-v8a/libmain.so"
       ],
-      "DebugActionIndex": 824
+      "DebugActionIndex": 823
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/arm64-v8a/libil2cpp.so",
@@ -17110,7 +17095,7 @@
       "ToBuildDependencies": [
         641
       ],
-      "DebugActionIndex": 825
+      "DebugActionIndex": 824
     },
     {
       "Annotation": "CopyFiles C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/arm64-v8a/libunity.so",
@@ -17122,9 +17107,9 @@
         "C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/symbols/arm64-v8a/libunity.so"
       ],
       "ToBuildDependencies": [
-        818
+        817
       ],
-      "DebugActionIndex": 826
+      "DebugActionIndex": 825
     },
     {
       "Annotation": "WriteText Library/Bee/artifacts/csharpactions/unity_app_guid_vlac.info",
@@ -17135,7 +17120,7 @@
         "Library/Bee/artifacts/csharpactions/unity_app_guid_vlac.info"
       ],
       "AllowUnwrittenOutputFiles": true,
-      "DebugActionIndex": 827
+      "DebugActionIndex": 826
     },
     {
       "Annotation": "GuidGenerator C:/Users/chris/Desktop/PracticasTemas/practica1/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/assets/bin/Data/unity_app_guid",
@@ -17164,11 +17149,11 @@
       ],
       "ToBuildDependencies": [
         50,
-        827
+        826
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
-      "DebugActionIndex": 828
+      "DebugActionIndex": 827
     },
     {
       "Annotation": "Player",
@@ -17335,7 +17320,7 @@
         777,
         778,
         779,
-        780,
+        781,
         782,
         783,
         784,
@@ -17356,14 +17341,13 @@
         799,
         800,
         801,
-        802,
-        804,
-        813,
-        820,
-        828
+        803,
+        812,
+        819,
+        827
       ],
       "AllowUnexpectedOutput": true,
-      "DebugActionIndex": 829
+      "DebugActionIndex": 828
     }
   ],
   "FileSignatures": [
@@ -17904,7 +17888,7 @@
   ],
         "NamedNodes": {
           "all_tundra_nodes": 0,
-          "Player": 829
+          "Player": 828
         }
 ,  "DefaultNodes": [
     0

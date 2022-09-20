@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "applicationId": "com.unamtemas.practica1",
+  "applicationId": "com.unamtemas.practica2",
   "variantType": "BASE_APK",
   "elements": [
     {
@@ -19,7 +19,7 @@
       },
       "path": "AndroidManifest.xml",
       "properties": {
-        "packageId": "com.unamtemas.practica1",
+        "packageId": "com.unamtemas.practica2",
         "split": "",
         "minSdkVersion": "30"
       }
